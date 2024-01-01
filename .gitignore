@@ -1,0 +1,41 @@
+# Log file
+*.log
+
+# Package Files #
+*.jar
+!applinking_test.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Idea files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VSCode files
+.vscode/
+
+# Mac
+.DS_Store
+
+# Temp files
+*~
+
+#Node
+node_modules
+build
+#DirEnv file
+.envrc
+
+# Cypress
+screenshots
+reports
+videos
+hars
+
+
